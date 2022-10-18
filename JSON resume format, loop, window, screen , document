@@ -46,4 +46,19 @@
     }
   ]
   
-  
+Read difference between windows, screen , ang document?  
+
+"windows":{
+"Its high level or Global object - The functionalities will be available across the window scope..
+Window is an entity which comprises all the browser related functionalities including storage, console, elements, sources, performance insights, Documenet,"
+},
+
+"screen":{
+"The Window object also has a screen object with properties describing the physical display."
+},
+
+"document":{
+Document is a window functionality of window and it's the place where our Html elements will get loaded into."
+}'.
+
+
