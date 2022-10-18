@@ -1,0 +1,49 @@
+1. Resume data in JSON format:-
+
+{
+  "basics": {
+    "name": "mugesh kumar",
+    "email": "mugeshrajan97@gmail.com",
+    "phone": "9444677604.",
+    "location": {
+      "address": "shanmuga nagar",
+      "city": "madurai",
+      "pinCode": "625014",
+      "staute": "tamil nadu"
+      "country": "india",
+    },
+     "education": [
+    {
+      "institution": "thangavelu engineer",
+      "area": "chennai",
+      "studyType": "college",
+      "startyear": "2014",
+      "endDate": "2018",
+      "gpa": "6.3",
+      "courses": "B.E- MECHANICAL ENGINEER" [
+        ""
+      ]
+    }
+  ],
+  "work": [
+    {
+      "company": "satven eng service pvt ltd",
+      "position": "CAE ENGINEER",
+      "startDate": "12-09-22",
+      "endDate": "TILL WORKIG",
+      "summary": "CAE Enginer using ansa,ansys,+ccm",
+      ]
+    }
+  ],
+  "skills": [
+    {
+      "name": "ANSA, HYPERMESH",
+       "level": "good",
+  "languages": [
+    {
+      "language": "ENGLISH",
+      "fluency": "GOOD"
+    }
+  ]
+  
+  
