@@ -46,7 +46,12 @@
     }
   ]
   
-Read difference between windows, screen , ang document?  
+  
+  
+  
+  
+  
+2 . Read difference between windows, screen , ang document?  
 
 "windows":{
 "Its high level or Global object - The functionalities will be available across the window scope..
@@ -61,4 +66,17 @@ Window is an entity which comprises all the browser related functionalities incl
 Document is a window functionality of window and it's the place where our Html elements will get loaded into."
 }'.
 
+
+
+
+
+3 . json itrate loops ?
+
+Array is a data type that stores a collection of different data types together.
+
+var mixedArray = [1, '2', 'Three', true, false, ['a', 'b', 'c'], { name: "object" }];
+
+for(var i = 0; i < mixedArray.length; i++) {
+console.log(mixedArray[i]);
+}
 
